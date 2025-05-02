@@ -16,6 +16,16 @@
   Реалізовано механізм бюджетування — при перевищенні ліміту система генерує повідомлення. 
   Також присутній функціонал управління підписками: користувач задає параметри регулярного платежу (сума, гаманець, дата, періодичність), після чого система автоматично фіксує транзакцію у встановлений час.
 
+## Наші проекти
+
+### 1. [finance-app-backend](https://github.com/NURE-DPS/finance-app-backend)
+![Backend Repo](https://img.shields.io/github/stars/NURE-DPS/finance-app-backend?style=social)  
+Репозиторій для бекенду фінансового трекера, який використовує Express.js, PostgreSQL через Supabase, Prisma для ORM.
+
+### 2. [finance-app-frontend](https://github.com/NURE-DPS/finance-app-frontend)
+![Frontend Repo](https://img.shields.io/github/stars/NURE-DPS/finance-app-frontend?style=social)  
+Репозиторій для фронтенду фінансового трекера, реалізований на React.js з TypeScript та Tailwind CSS.
+
 ## Макети основних інтерфейсів:
 ![image](https://github.com/user-attachments/assets/cb817e72-74eb-47ff-82e1-52a4a475829d)
 ![image](https://github.com/user-attachments/assets/59b0f046-701e-4940-8af3-ffbea1ec873b)
